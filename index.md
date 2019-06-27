@@ -1,4 +1,9 @@
 ## Solid Tutorial @ WebSci 2019
+Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee.
+Its mission is to reshape the web as we know it.
+Solid will foster a new breed of applications with capabilities above and beyond anything that exists today.
+
+Solid empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce. Learn how it came to be.
 
 ### Introduction to Solid<br> (1:00pm – 2:00pm)
 Understand what Solid is, and how it works through a high-level presentation,
